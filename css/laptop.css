@@ -163,6 +163,7 @@ ul {
 /* Xây dựng phần "Chứng chỉ - Giải thưởng" */
 .cc-gt {
   margin: 20px auto;
+  padding: 30px 0px;
 }
 .certificate-grid {
   display: grid;
